@@ -5,7 +5,7 @@
 
 Hola soy Jessi, una contadora pública queriendo darle una nueva visión a la profesión, marcando la diferencia y mostrando que la contabilidad combinada con análisis de datos es una de las mejores experiencias.
 
-En este portafolio encontraras los códigos realizados durante mi especialización en Analítica estratégica de datos en el área de procesamiento de lenguaje natural (NLP), te invito a que ingreses a que  link y descubras las maravillas que puedes lograr analizar. 
+En este portafolio encontraras los códigos realizados durante mi especialización en Analítica estratégica de datos en el área de procesamiento de lenguaje natural (NLP), te invito a que ingreses a cada  link y descubras las maravillas que puedes lograr analizar. 
 
 
 ## Proyectos 
