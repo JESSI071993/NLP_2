@@ -1,6 +1,7 @@
 ## Proyecto NLP
 
 
+![image](https://user-images.githubusercontent.com/79233321/119236354-8ae94380-bafc-11eb-840d-92908a579232.png)
 
 Hola soy Jessi, una contadora pública queriendo darle una nueva visión a la profesión, marcando la diferencia y mostrando que la contabilidad combinada con análisis de datos es una de las mejores experiencias.
 
